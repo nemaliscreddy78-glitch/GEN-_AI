@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM Starter Project
 
 ## About This Project
@@ -72,3 +73,6 @@ llm-starter/
 ## Author
 
 Beginner LLM Project
+=======
+# GEN-_AI
+>>>>>>> 1814692f52a00c10d4d47f2c3980562fc0a6d8c2
